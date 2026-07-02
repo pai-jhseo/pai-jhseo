@@ -1,1 +1,3 @@
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pai-jhseo&theme=nord_bright"></a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/pai-jhseo"/>
+</a>
