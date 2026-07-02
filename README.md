@@ -1,1 +1,1 @@
-<a href="https://github-stats-extended.vercel.app/api?username=anuraghazra"><img src="https://github-stats-extended.vercel.app/api?username=pai-jhseo"></a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pai-jhseo&theme=nord_bright&"></a>
